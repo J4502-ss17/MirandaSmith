@@ -8,10 +8,12 @@ h1 {
     font-size: 17px;
     font-weight: bold;;
     color: blue;
-    text-align: center;    
+    text-align: center;
 }
 
-
+body{
+  background-color: yellow;
+}
 
 p {
     font-family: Helvetica,"Times New Roman", serif;
@@ -19,4 +21,13 @@ p {
     font-weight: normal;
     color: red;
     text-align: left;
+}
+
+ul{
+  list-style-type: none;
+
+}
+
+img{
+  border-style: none;
 }
