@@ -15,7 +15,9 @@ body{
   background-color: yellow;
 }
 
-
+#nav{
+  font-family: 'Raleway', sans-serif;
+    }
 
   a-link:hover{color: #3D9970;}
 
