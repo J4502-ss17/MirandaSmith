@@ -19,8 +19,17 @@ body{
   font-family: 'Raleway', sans-serif;}
 
 
+  a:link {
+      color: #39CCCC;
+  }
+  a:hover{color: #0074D9;}
+  a:active {
+    color: #001f3f;
+}
+  a:visited {
+    color: #3D9970;
+}
 
-  a:hover{color: #3D9970;}
 
 p {
     font-family: Helvetica,"Times New Roman", serif;
