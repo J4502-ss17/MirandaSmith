@@ -17,8 +17,10 @@ body{
 
 #nav{
   font-family: 'Raleway', sans-serif;
+    }
 
-  }
+  a-link:hover{color: #3D9970;}
+
 p {
     font-family: Helvetica,"Times New Roman", serif;
     font-size: 12px;
